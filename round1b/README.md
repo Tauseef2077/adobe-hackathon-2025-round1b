@@ -5,15 +5,15 @@ Intelligent PDF Content Reasoner (Persona & Job Inference + Section Summarizatio
 This solution is designed for Round 1B of the Adobe India Hackathon 2025 — focusing on reasoning over a set of PDFs to infer:
 
 Persona: 
-________
+-------
 Who the PDF collection is intended for
 
 Job-To-Be-Done: 
-_______________
+---------------
 What the user wants to achieve from these documents
 
 Most Important Sections:
-________________________
+------------------------
 Auto-selected and summarized from across all PDFs
 
 Features:
