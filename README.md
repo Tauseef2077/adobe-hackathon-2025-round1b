@@ -37,6 +37,11 @@ Libraries used:
 - scikit-learn :– Lightweight modeling and inference (optional)
 - json, re, unicodedata, pathlib :– Core Python tooling
 
+Note:
+-----
+The input/ and output/ folders are intentionally empty. Add your PDFs to the input/ folder before running the Docker container.
+
+
 For Input:
 ----------
 Place PDFs in the input directory inside root directory in round1b/input/
