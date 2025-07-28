@@ -70,7 +70,7 @@ One final JSON file per folder of PDFs will be generated once docker bash is exe
 Compatibility:
 --------------
 Output Contains:Metadata,Extracted Sections,Sub-Section Analysis
-- Model Size ≤ 200MB
+- Model Size ≤ 1GB
 - Execution Time ≤ 60s for document collection (3-5 documents)
 - Runs on CPU only
 - No internet access needed
