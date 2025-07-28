@@ -1,7 +1,7 @@
 Adobe India Hackathon 2025 – Round 1B
 --------------------------------------
 Intelligent PDF Content Reasoner (Persona & Job Inference + Section Summarization)
-
+The objective is to semantically analyze a folder of related PDFs (e.g., travel brochures, HR forms, catering menus) and infer the persona and job-to-be-done from their content. The system extracts and ranks meaningful sections across documents, generates refined summaries per section, and outputs a single consolidated JSON per PDF collection.
 This solution is designed for Round 1B of the Adobe India Hackathon 2025 — focusing on reasoning over a set of PDFs to infer:
 
 Persona: 
